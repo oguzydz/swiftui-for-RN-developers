@@ -17,8 +17,8 @@ struct ContentView: View {
 ```
 
 Ekranlarımı da şu şekilde tanımladım. Yukarıda kullandığım “Tab” aşağıdaki dosyadan geliyor.
-![](image.png)<!-- {"width":290} -->
 
+<img width="226" alt="image" src="https://github.com/oguzydz/swiftui-for-RN-developers/assets/36233491/02165da1-ebbe-4b64-8248-f2a4eb33332a">
 
 ```
 import SwiftUI
